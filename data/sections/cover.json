@@ -139,20 +139,6 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-hiking",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Hiking",
-                            "info": "Enjoying nature and challenging trails."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
                         "fa": "fa-solid fa-utensils",
                         "faColors": null
                     },
@@ -175,48 +161,6 @@
                         "en": {
                             "title": "Travelling",
                             "info": "Discovering new cultures and destinations."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-campground",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Camping",
-                            "info": "Spending time outdoors under the stars."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-film",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Movies",
-                            "info": "Enjoying films across different genres."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-camera",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Photography",
-                            "info": "Capturing moments and scenic views."
                         }
                     }
                 },
