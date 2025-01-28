@@ -122,54 +122,131 @@
             "items": [
                 {
                     "dates": {
-                        "start": "05/01/2022",
-                        "end": null
+                        "start": "12/01/2024",
+                        "end": "12/31/2027"
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "Relocated to **Texas!**",
-                            "text": "Successfully transitioned to Texas in May 2022 to explore new career opportunities and immerse in a vibrant local tech community."
-                        },
-                        "es": {
-                            "title": "¡Me mudé a **Texas!**",
-                            "text": "Transición exitosa a Texas en mayo de 2022 para explorar nuevas oportunidades profesionales y sumergirme en una vibrante comunidad tecnológica local."
-                        },
-                        "fr": {
-                            "title": "Déménagement au **Texas !**",
-                            "text": "Transition réussie au Texas en mai 2022 pour explorer de nouvelles opportunités de carrière et m'immerger dans une communauté technologique locale dynamique."
-                        },
-                        "ko": {
-                            "title": "**텍사스로 이사했습니다!**",
-                            "text": "2022년 5월에 텍사스로 성공적으로 이주하여 새로운 직업 기회를 탐색하고 활기찬 현지 기술 커뮤니티에 몰입했습니다."
+                            "title": "AWS Certified Solutions Architect",
+                            "text": "Earned the AWS Certified Solutions Architect credential (ID: b240942a9e56456f8815f0e8d9471ba2) demonstrating expertise in AWS services and cloud security."
                         }
                     }
                 },
                 {
                     "dates": {
-                        "start": "11/05/2025",
+                        "start": "12/01/2024",
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "Working on **OSCP Certification!**",
-                            "text": "Currently preparing for the Offensive Security Certified Professional (OSCP) certification, enhancing skills in penetration testing and ethical hacking."
-                        },
-                        "es": {
-                            "title": "¡Trabajando en la certificación **OSCP**!",
-                            "text": "Actualmente preparándome para la certificación Offensive Security Certified Professional (OSCP), mejorando habilidades en pruebas de penetración y hacking ético."
-                        },
-                        "fr": {
-                            "title": "Travail sur la certification **OSCP** !",
-                            "text": "Actuellement en train de me préparer pour la certification Offensive Security Certified Professional (OSCP), développant des compétences en test d'intrusion et en hacking éthique."
-                        },
-                        "ko": {
-                            "title": "**OSCP 인증** 준비 중!",
-                            "text": "공격적 보안 인증 전문가 (OSCP) 인증을 준비하면서 침투 테스트 및 윤리적 해킹 기술을 향상시키고 있습니다."
+                            "title": "Cyber Operations Graduate",
+                            "text": "Completed a graduate program in Cyber Operations at The University of Dallas, gaining advanced knowledge in cybersecurity practices."
                         }
                     }
                 },
+                {
+                    "dates": {
+                        "start": "10/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Sigma Iota Epsilon Membership",
+                            "text": "Became a member of Sigma Iota Epsilon's Sigma Zeta Chapter, developing skills in leadership, team building, and business management."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "04/01/2024",
+                        "end": "04/01/2027"
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "CompTIA Security+ ce Certification",
+                            "text": "Achieved the CompTIA Security+ ce Certification, covering network security, digital forensics, and ISO standards."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "04/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "SOC Member",
+                            "text": "Joined LetsDefend as a SOC member, focusing on threat monitoring and incident response."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "01/01/2024",
+                        "end": "01/01/2025"
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "ISC2 Candidate",
+                            "text": "Enrolled as an ISC2 Candidate, working toward advanced certifications in information security."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "04/01/2023",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Python for Cybersecurity",
+                            "text": "Completed Infosec's Python for Cybersecurity course (Credential ID: TVGMET664GF2), learning how to apply Python in penetration testing and automation."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "10/01/2020",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Service-Oriented Architecture",
+                            "text": "Earned a certificate in Service-Oriented Architecture from the University of Alberta (Credential ID: WB48767K6VCU)."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "09/01/2020",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Blockchain Basics",
+                            "text": "Completed Blockchain Basics from the University at Buffalo (Credential ID: 966SY3ZHGASV), exploring foundational concepts in blockchain technology."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "recent_updates",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Recent **Updates**" }
+            },
+            "items": [
                 {
                     "dates": {
                         "start": "01/01/2025",
@@ -182,18 +259,45 @@
                         "en": {
                             "title": "Launched my **personal website**!",
                             "text": "Created a personal website to showcase my projects, share my journey in programming, and provide resources for fellow developers."
-                        },
-                        "es": {
-                            "title": "¡Lancé mi **sitio web personal**!",
-                            "text": "Creé un sitio web personal para mostrar mis proyectos, compartir mi trayectoria en programación y proporcionar recursos para otros desarrolladores."
-                        },
-                        "fr": {
-                            "title": "Lancement de mon **site web personnel** !",
-                            "text": "Création d'un site web personnel pour présenter mes projets, partager mon parcours en programmation et fournir des ressources pour d'autres développeurs."
-                        },
-                        "ko": {
-                            "title": "**개인 웹사이트**를 시작했습니다!",
-                            "text": "내 프로젝트를 소개하고 프로그래밍 여정을 공유하며 다른 개발자들을 위한 리소스를 제공하기 위해 개인 웹사이트를 만들었습니다."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "12/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Earned AWS Solutions Architect Certification",
+                            "text": "Certified in designing, deploying, and maintaining scalable systems on AWS."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "05/01/2023",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Studied OWASP Top 10",
+                            "text": "Completed a course on OWASP Top 10 vulnerabilities to strengthen application security expertise."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "11/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Preparing for OSCP Certification",
+                            "text": "Dedicated time to enhancing penetration testing skills and studying advanced offensive security techniques."
                         }
                     }
                 }
