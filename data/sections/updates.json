@@ -27,187 +27,25 @@
     },
     "articles": [
         {
-            "id": "fun_facts",
-            "component": "ArticleServices",
-            "config": {},
-            "locales": {},
-            "items": [
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-globe",
-                        "faColors": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "03",
-                            "info": "Countries visited"
-                        },
-                        "es": {
-                            "title": "03",
-                            "info": "Países visitados"
-                        },
-                        "fr": {
-                            "title": "03",
-                            "info": "Pays visités"
-                        },
-                        "ko": {
-                            "title": "03",
-                            "info": "방문한 나라"
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-diagram-project",
-                        "faColors": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "07",
-                            "info": "Cybersecurity-related projects"
-                        },
-                        "es": {
-                            "title": "07",
-                            "info": "Proyectos relacionados con ciberseguridad"
-                        },
-                        "fr": {
-                            "title": "07",
-                            "info": "Projets liés à la cybersécurité"
-                        },
-                        "ko": {
-                            "title": "07",
-                            "info": "사이버 보안 관련 프로젝트"
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-coffee",
-                        "faColors": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "20,000",
-                            "info": "Teas consumed"
-                        },
-                        "es": {
-                            "title": "20,000",
-                            "info": "Tazas de té consumidas"
-                        },
-                        "fr": {
-                            "title": "20,000",
-                            "info": "Thés consommés"
-                        },
-                        "ko": {
-                            "title": "20,000",
-                            "info": "마신 차"
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "id": "updates",
+            "id": "recent_updates",
             "component": "ArticleThread",
-            "config": {},
+            "config": {
+                "alignItems": "center" 
+            },
             "locales": {
-                "en": { "title": "Quick **Facts**" },
-                "es": { "title": "Feed de **Noticias**" },
-                "fr": { "title": "Fil d'**Actualités**" },
-                "ko": { "title": "**뉴스** 피드" }
+                "en": { "title": "Recent **Updates**" }
             },
             "items": [
                 {
                     "dates": {
-                        "start": "12/01/2024",
-                        "end": "12/31/2027"
-                    },
-                    "links": [],
-                    "locales": {
-                        "en": {
-                            "title": "AWS Certified Solutions Architect",
-                            "text": "Earned the AWS Certified Solutions Architect credential (ID: b240942a9e56456f8815f0e8d9471ba2) demonstrating expertise in AWS services and cloud security."
-                        }
-                    }
-                },
-                {
-                    "dates": {
-                        "start": "12/01/2024",
+                        "start": "09/01/2020",
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "Cyber Operations Graduate",
-                            "text": "Completed a graduate program in Cyber Operations at The University of Dallas, gaining advanced knowledge in cybersecurity practices."
-                        }
-                    }
-                },
-                {
-                    "dates": {
-                        "start": "10/01/2024",
-                        "end": null
-                    },
-                    "links": [],
-                    "locales": {
-                        "en": {
-                            "title": "Sigma Iota Epsilon Membership",
-                            "text": "Became a member of Sigma Iota Epsilon's Sigma Zeta Chapter, developing skills in leadership, team building, and business management."
-                        }
-                    }
-                },
-                {
-                    "dates": {
-                        "start": "04/01/2024",
-                        "end": "04/01/2027"
-                    },
-                    "links": [],
-                    "locales": {
-                        "en": {
-                            "title": "CompTIA Security+ ce Certification",
-                            "text": "Achieved the CompTIA Security+ ce Certification, covering network security, digital forensics, and ISO standards."
-                        }
-                    }
-                },
-                {
-                    "dates": {
-                        "start": "04/01/2024",
-                        "end": null
-                    },
-                    "links": [],
-                    "locales": {
-                        "en": {
-                            "title": "SOC Member",
-                            "text": "Joined LetsDefend as a SOC member, focusing on threat monitoring and incident response."
-                        }
-                    }
-                },
-                {
-                    "dates": {
-                        "start": "01/01/2024",
-                        "end": "01/01/2025"
-                    },
-                    "links": [],
-                    "locales": {
-                        "en": {
-                            "title": "ISC2 Candidate",
-                            "text": "Enrolled as an ISC2 Candidate, working toward advanced certifications in information security."
-                        }
-                    }
-                },
-                {
-                    "dates": {
-                        "start": "04/01/2023",
-                        "end": null
-                    },
-                    "links": [],
-                    "locales": {
-                        "en": {
-                            "title": "Python for Cybersecurity",
-                            "text": "Completed Infosec's Python for Cybersecurity course (Credential ID: TVGMET664GF2), learning how to apply Python in penetration testing and automation."
+                            "title": "Blockchain Basics",
+                            "text": "Completed Blockchain Basics from the University at Buffalo (Credential ID: 966SY3ZHGASV), exploring foundational concepts in blockchain technology."
                         }
                     }
                 },
@@ -226,52 +64,14 @@
                 },
                 {
                     "dates": {
-                        "start": "09/01/2020",
+                        "start": "04/01/2023",
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "Blockchain Basics",
-                            "text": "Completed Blockchain Basics from the University at Buffalo (Credential ID: 966SY3ZHGASV), exploring foundational concepts in blockchain technology."
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "id": "recent_updates",
-            "component": "ArticleThread",
-            "config": {},
-            "locales": {
-                "en": { "title": "Recent **Updates**" }
-            },
-            "items": [
-                {
-                    "dates": {
-                        "start": "01/01/2025",
-                        "end": null
-                    },
-                    "links": [
-                        { "string": "see_more", "href": "https://mossnegm.github.io/mosstafolio/#updates" }
-                    ],
-                    "locales": {
-                        "en": {
-                            "title": "Launched my **personal website**!",
-                            "text": "Created a personal website to showcase my projects, share my journey in programming, and provide resources for fellow developers."
-                        }
-                    }
-                },
-                {
-                    "dates": {
-                        "start": "12/01/2024",
-                        "end": null
-                    },
-                    "links": [],
-                    "locales": {
-                        "en": {
-                            "title": "Earned AWS Solutions Architect Certification",
-                            "text": "Certified in designing, deploying, and maintaining scalable systems on AWS."
+                            "title": "Python for Cybersecurity",
+                            "text": "Completed Infosec's Python for Cybersecurity course (Credential ID: TVGMET664GF2), learning how to apply Python in penetration testing and automation."
                         }
                     }
                 },
@@ -290,6 +90,84 @@
                 },
                 {
                     "dates": {
+                        "start": "01/01/2024",
+                        "end": "01/01/2025"
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "ISC2 Candidate",
+                            "text": "Enrolled as an ISC2 Candidate, working toward advanced certifications in information security."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "04/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "SOC Member",
+                            "text": "Joined LetsDefend as a SOC member, focusing on threat monitoring and incident response."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "04/01/2024",
+                        "end": "04/01/2027"
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "CompTIA Security+ ce Certification",
+                            "text": "Achieved the CompTIA Security+ ce Certification, covering network security, digital forensics, and ISO standards."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "10/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Sigma Iota Epsilon Membership",
+                            "text": "Became a member of Sigma Iota Epsilon's Sigma Zeta Chapter, developing skills in leadership, team building, and business management."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "12/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Cyber Operations Graduate",
+                            "text": "Completed a graduate program in Cyber Operations at The University of Dallas, gaining advanced knowledge in cybersecurity practices."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "12/01/2024",
+                        "end": "12/31/2027"
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "AWS Certified Solutions Architect",
+                            "text": "Earned the AWS Certified Solutions Architect credential (ID: b240942a9e56456f8815f0e8d9471ba2) demonstrating expertise in AWS services and cloud security."
+                        }
+                    }
+                },
+                {
+                    "dates": {
                         "start": "11/01/2024",
                         "end": null
                     },
@@ -298,6 +176,21 @@
                         "en": {
                             "title": "Preparing for OSCP Certification",
                             "text": "Dedicated time to enhancing penetration testing skills and studying advanced offensive security techniques."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "01/01/2025",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://mossnegm.github.io/mosstafolio/#updates" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Launched my **personal website**!",
+                            "text": "Created a personal website to showcase my projects, share my journey in programming, and provide resources for fellow developers."
                         }
                     }
                 }
